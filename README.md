@@ -1,5 +1,5 @@
 # Getting Started
-# FGO
+# FGO 2022
 ## Windows
 
 ### Compile Code
