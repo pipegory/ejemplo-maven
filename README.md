@@ -1,5 +1,5 @@
 # Getting Started
-# FGO 2022
+# FGO 2022 - DevOps
 ## Windows
 
 ### Compile Code
